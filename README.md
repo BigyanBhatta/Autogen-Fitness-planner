@@ -64,6 +64,7 @@ fitness-assistant-multi-agent/
 ├── app.py                  # Main entry point to start the chat with the multi-agent system
 ├── requirements.txt        # List of required Python packages
 └── .env                    # Environment file to store API keys
+```
 
 ## Agents Description
 `Goal Assessment Agent`: Evaluates the user's fitness goals and current fitness level through a series of questions.
