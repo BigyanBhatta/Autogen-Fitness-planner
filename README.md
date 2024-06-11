@@ -57,7 +57,7 @@ To start the interaction with the multi-agent system, run:
 
 ## Project Structure
 
-```plaintext```
+```plaintext
 fitness-assistant-multi-agent/
 │
 ├── agent.py                # Contains the definition of all the assistant agents
